@@ -1,0 +1,9 @@
+c:\users\cweeks.c-mj02v188\documents\visual studio 2017\Projects\FirstTest\FirstTest\bin\Debug\FirstTest.exe.config
+c:\users\cweeks.c-mj02v188\documents\visual studio 2017\Projects\FirstTest\FirstTest\bin\Debug\FirstTest.exe
+c:\users\cweeks.c-mj02v188\documents\visual studio 2017\Projects\FirstTest\FirstTest\bin\Debug\FirstTest.pdb
+c:\users\cweeks.c-mj02v188\documents\visual studio 2017\Projects\FirstTest\FirstTest\obj\Debug\FirstTest.csprojResolveAssemblyReference.cache
+c:\users\cweeks.c-mj02v188\documents\visual studio 2017\Projects\FirstTest\FirstTest\obj\Debug\FirstTest.Form1.resources
+c:\users\cweeks.c-mj02v188\documents\visual studio 2017\Projects\FirstTest\FirstTest\obj\Debug\FirstTest.Properties.Resources.resources
+c:\users\cweeks.c-mj02v188\documents\visual studio 2017\Projects\FirstTest\FirstTest\obj\Debug\FirstTest.csproj.GenerateResource.Cache
+c:\users\cweeks.c-mj02v188\documents\visual studio 2017\Projects\FirstTest\FirstTest\obj\Debug\FirstTest.exe
+c:\users\cweeks.c-mj02v188\documents\visual studio 2017\Projects\FirstTest\FirstTest\obj\Debug\FirstTest.pdb
